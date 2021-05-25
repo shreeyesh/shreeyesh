@@ -1,4 +1,4 @@
-### Smart enough to develop Smart Contracts.
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Smart+enough+to+develop+Smart+Contracts;Welcome+to+my+profile)](https://git.io/typing-svg)
 
 ### Hi there 👋
