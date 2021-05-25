@@ -1,4 +1,6 @@
 ### Smart enough to develop Smart Contracts.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Smart+enough+to+develop+Smart+Contracts;Welcome+to+my+profile)](https://git.io/typing-svg)
+
 ### Hi there 👋
 I am Shreeyesh a ML Developer who is getting his hands on the likes of Blockchain. 
 I am currently working to improve the online presence of my work,so your feedbacks are highly welcome.
