@@ -9,3 +9,6 @@ I am currently working to improve the online presence of my work,so your feedbac
 - 💬 Ask me about blockchain, Ai or machine learning
 - 📫 How to reach me: ...https://www.linkedin.com/in/shreeyesh-tripathi-575b50173/
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreeyesh)](https://github.com/anuraghazra/github-readme-stats)
+
+
