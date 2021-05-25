@@ -13,5 +13,8 @@ I am currently working to improve the online presence of my work,so all of your 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreeyesh&theme=gotham&show_icons=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreeyesh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
