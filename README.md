@@ -13,7 +13,7 @@ I am currently working to improve the online presence of my work,so all of your 
 - 💬 Ask me about blockchain, Ai or machine learning
 - 📫 How to reach me: ... ![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) https://www.linkedin.com/in/shreeyesh-tripathi-575b50173/
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreeyesh&theme=gotham&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreeyesh&theme=gotham&show_icons=true&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreeyesh&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
