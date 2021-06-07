@@ -4,8 +4,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Smart+enough+to+build+Smart+Contracts;Welcome+to+my+profile)](https://git.io/typing-svg)
 
 ### Hi there 👋
-I am Shreeyesh a ML Developer who is getting his hands on the likes of Blockchain. 
-I am currently working to improve the online presence of my work,so all of your feedbacks are highly welcome.
+I am Shreeyesh a full-stack Blockchain Developer, earlier I used to be a ML Developer. 
+I am currently working to improve the online presence of my work,so all of your feedbacks are highly welcomed.
 
 - 🔭 I’m currently working on a Dapp
 - 🌱 I’m currently learning Ethereum Development
