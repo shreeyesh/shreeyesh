@@ -35,7 +35,7 @@ I am currently working to improve the online presence of my work,so all of your 
 <a href="https://www.linkedin.com/in/shreeyesh-tripathi-575b50173/" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/transparent-Linkedin-logo-icon.png" alt="" height="30" /></a>
 
 # Feel free to drop a direct message :
- <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /> : tripp_12 / wolfie101
+ <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /> : @tripp_12 / @trippdev
 
 <a href="https://www.reddit.com/user/tripp101"> <img alt="Reddit" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
   
