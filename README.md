@@ -62,7 +62,7 @@ I am currently working to improve the online presence of my work,so all of your 
   | Projects 	|  	Links| Type |
 |---	|---	| --- |
 |  SafeBtc	| https://safebitcoin.io/ 	| DeFi |
-| YouNegotiate	|  	https://www.linkedin.com/company/younegotiate/ | DeFi |
+| YouNegotiate	|  https://younegotiate.com/ | DeFi |
 
 
 
