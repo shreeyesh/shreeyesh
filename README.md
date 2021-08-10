@@ -62,6 +62,7 @@ I am currently working to improve the online presence of my work,so all of your 
   
   | Projects 	|  	Links| Type |
 |---	|---	| --- |
+|Code4rena |https://code423n4.com/ |Security |
 |  SafeBtc	| https://safebitcoin.io/ 	| DeFi |
 | YouNegotiate	|  https://younegotiate.com/ | DeFi |
 
