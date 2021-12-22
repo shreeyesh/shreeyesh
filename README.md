@@ -52,7 +52,6 @@ I am currently working to improve the online presence of my work,so all of your 
 | Projects 	|  	Links| Type |
 |---	|---	| --- |
 |  Uniswap Clone	| https://uniswap-clone-tripp.netlify.app/#/swap 	| DeFi |
-| NFT MarketPlace 	|  	https://nft-marketplace-smoky.vercel.app/ | NFT |
 |  TrippSwap	|   https://shreeyesh.github.io/TrippSwap | DeFi  |
   | ERC20_Tracker | https://www.linkedin.com/feed/update/urn:li:activity:6821067118704914433/ | Data|
   |MultiSignature Wallet |https://mswallet-web-app.vercel.app/ |Security |
