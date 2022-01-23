@@ -31,7 +31,7 @@ I am currently working to improve the online presence of my work,so all of your 
 - 🌱 I’m currently learning Ethereum Development
 - 👯 I’m looking to collaborate on for a hackathon
 - 💬 Ask me about blockchain, Ai or machine learning
-- 📫 Connect with me: <a href="https://twitter.com/ShreeyeshTrip" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/twitter%20(2).png" alt="" height="30" /></a>
+- 📫 Connect with me: <a href="https://twitter.com/trippdev" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/twitter%20(2).png" alt="" height="30" /></a>
 <a href="https://www.linkedin.com/in/shreeyesh-tripathi-575b50173/" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/transparent-Linkedin-logo-icon.png" alt="" height="30" /></a>
 
 # Feel free to drop a direct message :
