@@ -47,30 +47,6 @@ I am currently working to improve the online presence of my work,so all of your 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreeyesh&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
-## Few Project Demo
-
-| Projects 	|  	Links| Type |
-|---	|---	| --- |
-|  Uniswap Clone	| https://uniswap-clone-tripp.netlify.app/#/swap 	| DeFi |
-|  TrippSwap	|   https://shreeyesh.github.io/TrippSwap | DeFi  |
-  | ERC20_Tracker | https://www.linkedin.com/feed/update/urn:li:activity:6821067118704914433/ | Data|
-  |MultiSignature Wallet |https://mswallet-web-app.vercel.app/ |Security |
-|IdolList |https://idol-list.vercel.app/ |WebDev |
-  
-  ## Previously Worked with
-  
-  | Projects 	|  	Links| Type |
-|---	|---	| --- |
-|Octopus Protocol |https://octopus.exchange/ | DeFi |
-|Code4rena |https://code423n4.com/ |Security |
-|  SafeBtc	| https://safebitcoin.io/ 	| DeFi |
-| YouNegotiate	|  https://younegotiate.com/ | DeFi |
-
-
-
-# Snake Alert
-<!-- platane/snk works, it just puts it on a new branch -->
-![mishmanners snake gif](https://github.com/mishmanners/MishManners/blob/output/github-contribution-grid-snake.svg)
 
 
 
